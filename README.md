@@ -58,3 +58,11 @@ You will also need to center them vertically. Centering things both horizontally
 Next, add a background color (`#A6A9F0`). If you can do this, you're almost done!
 
 The last and hardest challenge is getting the images to appear with the bluish filter on them. The `background` property will make this work, and you [can read how to add a color overly to an image at CSS-Tricks](https://css-tricks.com/tinted-images-multiple-backgrounds/).
+
+## 🌶️ Extra Spicy Option
+
+The CSS challenges in this project are pretty spicy as is, but if you are up for one more challenge...
+
+Can you add a hover effect to the footer, so that if you hover over an image, the blue overlay disappears?
+
+![hover effect](hover-effect.gif)
